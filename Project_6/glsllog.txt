@@ -1,0 +1,3 @@
+
+0:23(2): error: syntax error, unexpected BASIC_TYPE_TOK, expecting ',' or ';'
+
